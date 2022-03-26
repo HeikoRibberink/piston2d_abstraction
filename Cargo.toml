@@ -2,6 +2,9 @@
 name = "piston2d_abstraction"
 version = "0.1.0"
 edition = "2021"
+description = "Object-oriented piston2d abstraction."
+license = "MIT"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
