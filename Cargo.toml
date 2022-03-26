@@ -1,0 +1,12 @@
+[package]
+name = "piston2d_abstraction"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+piston_window = "0.120.0"
+piston2d_abstraction_proc_macros = {path = "../piston2d_abstraction_proc_macros"}
+
+[features]
