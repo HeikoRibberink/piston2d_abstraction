@@ -1,5 +1,6 @@
 use piston_window as pw;
 use std::collections::HashSet;
+pub use piston2d_abstraction_proc_macros::derive_input_consumer;
 
 macro_rules! create_consumer_trait {
 	// syntax: Name consumes arg1: type1, arg2: type2, etc; fn Name(args) -> Ret {_code_}, fn Name2(args) {_code_}

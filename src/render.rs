@@ -2,7 +2,6 @@ use piston_window::image;
 use piston_window::Context;
 use piston_window::G2dTexture;
 use piston_window::Graphics;
-pub use piston2d_abstraction_proc_macros::derive_input_consumer;
 
 pub trait Renderable {
 	fn get_render_transform(&self) -> &Matrix2d;
