@@ -1,6 +1,6 @@
 [package]
 name = "piston2d_abstraction"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 description = "Object-oriented piston2d abstraction."
 license = "MIT"
