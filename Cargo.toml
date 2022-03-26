@@ -10,6 +10,6 @@ license-file = "LICENSE"
 
 [dependencies]
 piston_window = "0.120.0"
-piston2d_abstraction_proc_macros = {path = "../piston2d_abstraction_proc_macros"}
+piston2d_abstraction_proc_macros = {path = "../piston2d_abstraction_proc_macros", version = "0.1.0"}
 
 [features]
