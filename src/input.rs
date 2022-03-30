@@ -1,3 +1,4 @@
+#![allow(unused_variables)]
 use piston_window as pw;
 use std::collections::HashSet;
 pub use piston2d_abstraction_proc_macros::derive_input_consumer;

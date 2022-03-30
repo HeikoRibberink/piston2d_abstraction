@@ -1,6 +1,6 @@
 [package]
 name = "piston2d_abstraction"
-version = "0.1.7"
+version = "0.1.8"
 edition = "2021"
 description = "Object-oriented piston2d abstraction."
 license = "MIT"
@@ -11,5 +11,6 @@ license-file = "LICENSE"
 [dependencies]
 piston_window = "0.120.0"
 piston2d_abstraction_proc_macros = "0.1.2"
+lerp = "0.4.0"
 
 [features]
